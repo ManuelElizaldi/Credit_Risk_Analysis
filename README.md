@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 ## Project Summary
-The objective of this project is to analyse credit card risk using different Machine Learning tools of the Imbalance Learn and Scikit Learn modules. The [Dataset](Resources/LoanStats_2019Q1.zip) used for this project can be found in the Resources folder under the name of LoanStats_2019Q1.zip.
+The objective of this project is to analze credit card risk using different Machine Learning tools of the Imbalance Learn and Scikit Learn modules. The [Dataset](Resources/LoanStats_2019Q1.zip) used for this project can be found in the Resources folder under the name of LoanStats_2019Q1.zip.
 
 ### Tools
 - Python
