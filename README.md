@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 ## Project Summary
-The objective of this project is to analyse credit card risk using different Machine Learning tools of the Imbalance Learn and Scikit Learn modules. The [Dataset](Resources/LoanStats_2019Q1.zip) used for this project can be found in the Resources folder under the name of LoanStats_2019Q1.csv
+The objective of this project is to analyse credit card risk using different Machine Learning tools of the Imbalance Learn and Scikit Learn modules. The [Dataset](Resources/LoanStats_2019Q1.zip) used for this project can be found in the Resources folder under the name of LoanStats_2019Q1.zip.
 
 ### Tools
 - Python
@@ -62,3 +62,6 @@ The objective of this project is to analyse credit card risk using different Mac
 - F1: 0.56
 
 ![](Resources/Undersampling.png)
+
+## Model Summary
+Based on the information that we found, we can conclude that SMOTE and SMOTEENN are decent models for this dataset with F1 scores above 0.8. Balanced Random Forest and Easy Ensamble model are more robust because they have an F1 score of 0.96. Therefore I conclude that the best model for this analysis is the Easy Ensamble AdBoost Classifier.  
